@@ -1,0 +1,2 @@
+consigna:
+Realizar una funcion que tome como parametro un arreglo de numeros y los ordene de menor a mayor,a continuacion,que determine cuales son pares e impares.
